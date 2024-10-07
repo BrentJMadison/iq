@@ -11,3 +11,8 @@ I'm a Full Stack engineer that loves to stay busy. Between my job and other side
 
 ## Past Projects
 - 🌲 Contract Software work @ [Neutral Project](https://www.theneutralproject.com/)
+
+
+## Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brentjmadison1/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brentjmadison@gmail.com)
